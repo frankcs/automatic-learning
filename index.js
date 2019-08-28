@@ -1,2 +1,2 @@
-const versionSpace = require('./version-space')
-console.log(versionSpace.a)
+const versionSpace = require('./src/version-space')
+console.log(versionSpace.matches)

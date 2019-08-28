@@ -1,5 +1,5 @@
 /* global describe, it */
-const { matches } = require('../../version-space')
+const { matches } = require('../../src/version-space')
 const { expect } = require('chai')
 
 describe('Testing matches functions', function () {
